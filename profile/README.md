@@ -42,6 +42,3 @@ ChessVision is free and maintained by volunteers. If it saves you time, you can 
 ```
 
 <p>Questions or partnership inquiries: contact@chessvision.org </p>
-
- ```text
-  0x31eB555dAAC8253FF9835448bFA1542BFA969aDb
