@@ -45,6 +45,7 @@ ChessVision is free and maintained on a volunteer basis. If it saves you time, y
 
 ```text
   0x31eB555dAAC8253FF9835448bFA1542BFA969aDb
+```
 
 ---
 
