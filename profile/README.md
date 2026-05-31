@@ -40,4 +40,4 @@ ChessVision is free and maintained on a volunteer basis. If it saves you time, y
 
 ---
 
-<sub>Questions or partnership inquiries: [contact@chessvision.org](mailto:contact@chessvision.org)</sub>
+<p>Questions or partnership inquiries: [contact@chessvision.org](mailto:contact@chessvision.org)</p>
