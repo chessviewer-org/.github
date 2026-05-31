@@ -36,8 +36,6 @@ Found a security issue? Please don't open a public issue — follow the [securit
 
 ## Support the Project
 
-## Support the Project
-
 ChessVision is free and maintained on a volunteer basis. If it saves you time, you can help keep it going through cryptocurrency donations. Sponsorships are voluntary donations toward maintenance and hosting — they're not payment for work, and contributing never requires one.
 
 * **Channel:** Cryptocurrency (Direct Wallet Transfer)
