@@ -13,4 +13,5 @@
 # Optional direct Stripe payment link, surfaced under "Custom" on the Sponsor
 # panel. Replace the placeholder with the real Stripe Payment Link, or remove
 # the line entirely if you rely solely on GitHub Sponsors.
+
 custom: ['https://github.com/chessvision-org/.github#support-the-project']
