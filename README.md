@@ -1,4 +1,4 @@
-# chessvision-org
+# chessviewer-org
 
 This is the organization's special **`.github`** repository. It holds the
 defaults that GitHub applies across every chessvision-org repository:
