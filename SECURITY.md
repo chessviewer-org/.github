@@ -1,6 +1,6 @@
 # Security Policy
 
-This is the organization-wide security policy for **chessvision-org**. A
+This is the organization-wide security policy for **chessviewer-org**. A
 repository may publish its own `SECURITY.md` with project-specific details; where
 it does, that file applies to that project.
 

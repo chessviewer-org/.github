@@ -1,7 +1,7 @@
 # Contributor Covenant Code of Conduct
 
 This Code of Conduct applies to every repository, discussion, and community
-space owned by the **chessvision-org** organization. Individual repositories may
+space owned by the **chessviewer-org** organization. Individual repositories may
 add to it, but never weaken it.
 
 ## Our Pledge

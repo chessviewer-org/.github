@@ -1,6 +1,6 @@
 # Support
 
-Need help with a chessvision-org project? Here's where to go.
+Need help with a chessviewer-org project? Here's where to go.
 
 ## Questions and discussion
 

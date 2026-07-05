@@ -1,6 +1,6 @@
 # Governance
 
-How decisions get made across **chessvision-org**. This is intentionally light —
+How decisions get made across **chessviewer-org**. This is intentionally light —
 the goal is to keep the projects healthy and welcoming, not to add process for
 its own sake.
 

@@ -1,7 +1,7 @@
-# Contributing to chessvision-org
+# Contributing to chessviewer-org
 
 Thanks for your interest in contributing! This is the organization-wide guide
-that applies to every chessvision-org repository. Most projects also ship their
+that applies to every chessviewer-org repository. Most projects also ship their
 own `CONTRIBUTING.md` with setup steps and project-specific conventions — when a
 repository has one, **that file takes precedence** for anything specific to it.
 
