@@ -4,14 +4,8 @@
 # the default "Sponsor" button for every repository in the organization that
 # does not define its own `.github/FUNDING.yml`.
 #
-# GitHub Sponsors uses Stripe Connect to process payments. GitHub itself takes
-# no fee and withholds no tax on the organization's behalf — tax handling is the
-# recipient's responsibility, declared during Stripe onboarding. Activate the
-# listing at https://github.com/sponsors/chessviewer-org before this button goes
-# live.
-
-# Optional direct Stripe payment link, surfaced under "Custom" on the Sponsor
-# panel. Replace the placeholder with the real Stripe Payment Link, or remove
-# the line entirely if you rely solely on GitHub Sponsors.
+# GitHub Sponsors is not set up for this organization. Support is accepted
+# directly via crypto (USDT / USDC / ETH, single EVM wallet address) — see the
+# "Support the project" section in this repository's README for the address.
 
 custom: ['https://github.com/chessviewer-org/.github#support-the-project']

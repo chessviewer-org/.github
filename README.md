@@ -28,9 +28,15 @@ board editor, FEN tooling, and ultra-high-quality image export, live at
 ## Support the project
 
 ChessViewer is free and always will be. If it's useful to you and you'd like to
-help keep it maintained, you can support it through
-[GitHub Sponsors](https://github.com/sponsors/chessviewer-org). Sponsorship is
-entirely optional — it funds maintenance and hosting, and core features are
+help keep it maintained, you can send a donation in USDT, USDC, or ETH to the
+following EVM wallet address:
+
+```
+0x31eB555dAAC8253FF9835448bFA1542BFA969aDb
+```
+
+Always double-check the address before sending. Donations are entirely
+optional — they help fund maintenance and hosting, and core features are
 never paywalled.
 
 You can also help for free: star the repositories, report bugs, improve the
